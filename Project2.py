@@ -6,7 +6,7 @@ import csv
 import unittest
 
 
-#def get_titles_from_search_results(filename):
+def get_titles_from_search_results(filename):
     """
     Write a function that creates a BeautifulSoup object on "search_results.htm". Parse
     through the object and return a list of tuples containing book titles (as printed on the Goodreads website) 
